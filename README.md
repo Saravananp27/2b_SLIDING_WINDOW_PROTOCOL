@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## NAME : HIRUTHIK SUDHAKAR
+## REGISTER NUMBER : 212223240054
 ## AIM
 To write a python program to perform sliding window protocol
 ## ALGORITHM:
